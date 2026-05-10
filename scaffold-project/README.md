@@ -54,3 +54,8 @@ For local smoke testing without sending transactions, set `DRY_RUN=true` (wallet
 ```bash
 DRY_RUN=true npm run start
 ```
+
+
+## Website portal demo
+
+Open `portal/index.html` in a browser to run the 6-step financing + tokenisation simulation.

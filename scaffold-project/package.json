@@ -9,20 +9,25 @@
     "dev:carbon": "tsx src/carbon-token.ts",
     "dev:bond": "tsx src/bond-nft.ts",
     "start": "tsx src/index.ts",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "test:portal": "vitest run tests/portal.test.mjs",
+    "serve:portal": "python3 -m http.server 4173 -d portal"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
     "@metaplex-foundation/umi": "^1.0.0",
     "@metaplex-foundation/umi-bundle-defaults": "^1.0.0",
     "@metaplex-foundation/umi-signer-wallet-adapters": "^1.0.0",
+    "@metaplex-foundation/umi-web3js-adapters": "^1.0.0",
     "@solana/spl-token": "^0.4.8",
     "@solana/web3.js": "^1.98.2",
-    "dotenv": "^16.4.5",
-    "@metaplex-foundation/umi-web3js-adapters": "^1.0.0"
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
+    "@types/node": "^25.6.2",
+    "jsdom": "^29.1.1",
     "tsx": "^4.19.2",
-    "typescript": "^5.6.3"
+    "typescript": "^5.6.3",
+    "vitest": "^4.1.5"
   }
 }
