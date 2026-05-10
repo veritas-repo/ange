@@ -26,6 +26,8 @@ This scaffold provides an MVP implementation for the ANGE climate finance protoc
    - `SOLANA_RPC_URL` (Devnet for MVP)
    - `WALLET_SECRET_KEY` (JSON array of wallet secret key bytes)
 
+For local smoke testing without sending transactions, set `DRY_RUN=true` (wallet is optional in this mode).
+
 ## Run
 
 - Create only carbon token:
@@ -45,3 +47,10 @@ This scaffold provides an MVP implementation for the ANGE climate finance protoc
 
 - Metadata URIs are placeholders and should point to immutable metadata (e.g., Arweave/IPFS) in production.
 - Add verification/oracle logic for carbon-credit provenance in the next phase.
+
+
+## Quick test
+
+```bash
+DRY_RUN=true npm run start
+```
