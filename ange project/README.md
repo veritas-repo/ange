@@ -1,3 +1,5 @@
+#![ANGE Logo](portal/assets/ange-logo.svg)
+
 # ANGE Solana Project (MVP)
 
 This scaffold provides an MVP implementation for the ANGE climate finance protocol on Solana using Metaplex.
