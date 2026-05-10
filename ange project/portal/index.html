@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ANGE Climate Bond Portal</title>
+  <link rel="icon" href="./assets/ange-logo.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <img src="./assets/ange-logo.svg" alt="ANGE logo" />
+      <h1>ANGE Climate Bond & Carbon Credit Portal</h1>
+    </div>
+    <p>Demonstration portal for project financing, bond NFTs, and carbon token distribution.</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>1) Project Needs Funding</h2>
+      <p>Carbon project requires upfront capital to deploy and verify emissions-reduction activities.</p>
+      <div class="kpis">
+        <div><span>Target Raise</span><strong>$100,000</strong></div>
+        <div><span>Duration</span><strong>24 Months</strong></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>2) Bond NFTs Issued (Primary Market)</h2>
+      <p><strong>$100,000 Bond</strong> is split into <strong>100 Bond NFTs</strong>.</p>
+      <ul>
+        <li>Face Value: <strong>$1,000</strong> per NFT</li>
+        <li>Each NFT: proportional claim on future carbon credit generation</li>
+      </ul>
+      <div id="issuance"></div>
+    </section>
+
+    <section class="card">
+      <h2>3) Investors Fund Project</h2>
+      <label>Investor purchase (NFTs): <input id="investorNfts" type="number" min="1" max="100" value="10" /></label>
+      <button id="fundBtn">Simulate Investment</button>
+      <p id="fundResult"></p>
+    </section>
+
+    <section class="card">
+      <h2>4) Project Generates Carbon Credits</h2>
+      <label>Total verified carbon credits generated: <input id="totalCredits" type="number" min="0" value="50000" /></label>
+      <p>Verified credits are tokenised as <strong>$ANGE</strong> carbon tokens.</p>
+    </section>
+
+    <section class="card">
+      <h2>5) Carbon Tokens Distributed (2 Years)</h2>
+      <p>Distribution is proportional to NFT holdings over 24 monthly epochs.</p>
+      <button id="distBtn">Calculate Distribution</button>
+      <div id="distribution"></div>
+    </section>
+
+    <section class="card">
+      <h2>6) Secondary Bond Market Trading</h2>
+      <p>Investors may trade Bond NFTs before full carbon-token distribution.</p>
+      <label>Secondary price per NFT ($): <input id="secondaryPrice" type="number" min="100" value="1200" /></label>
+      <button id="tradeBtn">Estimate Exit</button>
+      <p id="tradeResult"></p>
+    </section>
+
+    <section class="card">
+      <h2>Illustrated Investor Example</h2>
+      <p>View the 5-step investor journey and downloadable screenshots.</p>
+      <a href="./example.html"><button>Open Example</button></a>
+    </section>
+  </main>
+
+  <footer>
+    <small>Demo only. Not financial advice.</small>
+  </footer>
+
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
