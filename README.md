@@ -1,7 +1,7 @@
 # ANGE — Asset Network for Green Economy
 
 <p align="center">
-  <img src="./ange%20project/portal/assets/ange-logo.svg" alt="ANGE Logo" width="180" />
+  <img src="./ange%20project/portal/screenshots/ANGE-Logo.jpg" alt="ANGE Logo" width="180" />
 </p>
 
 ## Project Owner
