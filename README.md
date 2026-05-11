@@ -68,7 +68,6 @@ The result is a foundation intended to serve developers, institutions, and digit
 ![2-Problem1](./ange%20project/portal/screenshots/2-Problem1.jpg)
 ![3-Problem2](./ange%20project/portal/screenshots/3-Problem2.jpg)
 
-### Detailed description
 Traditional climate finance remains operationally fragmented. The pitch surfaces four recurring constraints:
 - **Slow capital movement** from commitment to project deployment.
 - **High structuring and intermediation costs** that reduce effective funding efficiency.
@@ -89,7 +88,6 @@ In short, climate assets are valuable but the current route from project activit
 ![4-Market](./ange%20project/portal/screenshots/4-Market.jpg)
 ![5-Bond](./ange%20project/portal/screenshots/5-Bond.jpg)
 
-### Detailed description
 ANGE proposes a two-market system that connects project financing and outcome distribution:
 
 ### 1) Primary Market — Carbon Credit / Token Market
@@ -118,7 +116,6 @@ This architecture enables earlier funding for developers while preserving option
 ![MVP Flow Step 4](./ange%20project/portal/screenshots/step4.svg)
 ![MVP Flow Step 5](./ange%20project/portal/screenshots/step5.svg)
 
-### Detailed description
 The MVP demonstrates a practical lifecycle:
 1. A climate project requests upfront financing.
 2. Bond issuance is split into tradable NFT units.
@@ -135,7 +132,6 @@ The use case shows a blended return structure where investors can combine interi
 
 ![8-Solana](./ange%20project/portal/screenshots/8-Solana.jpg)
 
-### Detailed description
 ANGE positions Solana as a fit-for-purpose execution layer for climate-finance markets:
 - **High throughput** supports frequent issuance and trading operations.
 - **Low transaction costs** make smaller ticket participation economically viable.
@@ -150,7 +146,6 @@ These properties allow ANGE to scale market activity without compromising afford
 
 ![9-Vision](./ange%20project/portal/screenshots/9-Vision.jpg)
 
-### Detailed description
 ANGE’s long-term vision is to become core infrastructure for tokenized climate finance by enabling:
 - **Global project funding access** through programmable digital instruments.
 - **Transparent and liquid participation** across institutional and retail-adjacent channels.
