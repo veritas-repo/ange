@@ -10,126 +10,118 @@
 Trustee: Veritas Tech Pty. Ltd.  
 Website: www.veritas-tech.org
 
-![VVT-Logo (from pitch deck)](./docs/pitch/1-Title.svg)
+![VVT-Logo](./ange%20project/portal/screenshots/VVT-Logo.jpg)
 
 ---
 
 ## Slide 1 — Project Introduction
 
-![1. Title](./docs/pitch/1-Title.svg)
+![1-Title](./ange%20project/portal/screenshots/1-Title.jpg)
+![VVT-Logo](./ange%20project/portal/screenshots/VVT-Logo.jpg)
 
 ### Detailed description
-ANGE (Asset Network for Green Economy) is building a digital climate-finance infrastructure layer that connects real-world climate projects to internet-native capital markets. The platform is designed to tokenize climate-related assets and financing rights so that funding, settlement, and value distribution can happen on-chain with global access.
+ANGE (Asset Network for Green Economy) is building a digital climate-finance infrastructure layer that connects real-world climate projects to internet-native capital markets. The model is designed to make project financing more efficient and outcome distribution more transparent by moving issuance, settlement, and value allocation onto programmable rails.
 
-The introduction slide establishes three core ideas:
-- **Tokenised climate bonds:** projects can issue blockchain-native instruments representing participation in future climate-asset generation.
-- **Carbon market integration:** verified climate outcomes can be represented as tokenised carbon assets and distributed transparently.
-- **Infrastructure-first approach:** ANGE focuses on market rails, not just a single product, aiming to support project developers, institutional participants, and digital investors.
+This introduction highlights three strategic themes:
+- **Tokenized climate financing instruments** that convert project-linked rights into digitally transferable assets.
+- **On-chain carbon value representation** that allows verified climate outcomes to be distributed with transparency and auditability.
+- **Infrastructure-first architecture** focused on reusable market rails, not just a single application use case.
 
-This frames ANGE as a market infrastructure project with both impact and financial-return pathways.
+The result is a foundation intended to serve developers, institutions, and digital investors inside one coherent market framework.
 
 ---
 
 ## Slide 2 — Problem Statement
 
-![2. Problem 1](./docs/pitch/2-Problem1.svg)
-![3. Problem 2](./docs/pitch/3-Problem2.svg)
+![2-Problem1](./ange%20project/portal/screenshots/2-Problem1.jpg)
+![3-Problem2](./ange%20project/portal/screenshots/3-Problem2.jpg)
 
 ### Detailed description
-The pitch identifies structural inefficiencies in traditional climate finance:
-- **Slow settlement cycles** delay deployment of funding to projects.
-- **High issuance and intermediation costs** reduce capital efficiency.
-- **Limited liquidity** traps capital in long-duration structures.
-- **Fragmented accessibility** limits participation from global digital investors.
+Traditional climate finance remains operationally fragmented. The pitch surfaces four recurring constraints:
+- **Slow capital movement** from commitment to project deployment.
+- **High structuring and intermediation costs** that reduce effective funding efficiency.
+- **Limited tradability** during multi-year project execution cycles.
+- **Restricted access pathways** for global investors who want transparent exposure.
 
-As a result, three major stakeholders face friction:
-1. **Project developers** need faster, lower-cost capital to execute and scale.
-2. **Investors** need transparent liquidity options and clearer pricing signals.
-3. **Carbon markets** need scalable, digital-first infrastructure for growth.
+These frictions produce stakeholder-specific impacts:
+1. **Project developers** face slower growth because capital is expensive and delayed.
+2. **Investors** lack flexible entry/exit options and reliable price discovery.
+3. **Climate markets** struggle to scale because asset creation and market distribution are weakly connected.
 
-The second problem slide emphasizes the end-state of these frictions: climate assets become expensive, difficult to trade, and inaccessible to broader pools of capital.
+In short, climate assets are valuable but the current route from project activity to investable market product is too slow and too costly.
 
 ---
 
 ## Slide 3 — Solution: Two Connected Markets
 
-![4. Market](./docs/pitch/4-Market.svg)
-![5. Bond](./docs/pitch/5-Bond.svg)
+![4-Market](./ange%20project/portal/screenshots/4-Market.jpg)
+![5-Bond](./ange%20project/portal/screenshots/5-Bond.jpg)
 
 ### Detailed description
-ANGE proposes an integrated **two-market design**:
+ANGE proposes a two-market system that connects project financing and outcome distribution:
 
 ### 1) Primary Market — Carbon Credit / Token Market
-- Climate projects advance through verification and carbon-credit generation.
-- Verified credits are tokenised into digital carbon tokens.
-- Tokens can be distributed and sold through multiple channels (native marketplace, existing marketplaces, institutional buyers, and global digital investors).
+- Projects complete verification and generate carbon-linked outputs.
+- Verified outputs are tokenized into transferable digital units.
+- Distribution can occur via native and external market channels to broaden demand access.
 
 ### 2) Secondary Market — Bond NFT Trading Market
-- Projects issue **Bond NFTs** that represent proportional claims tied to future carbon-output value.
-- Investors can trade these instruments before full carbon issuance/distribution is complete.
-- This introduces ongoing liquidity and market pricing throughout the project lifecycle.
+- Projects issue **Bond NFTs** representing fractional economic rights tied to future distribution streams.
+- These units can trade during execution, before full lifecycle completion.
+- Continuous trading introduces liquidity and price signals throughout project maturity.
 
-### Bond economics context
-The deck’s bond-economics framing combines:
-- **Discounted early financing** for project developers.
-- **Project risk premium** for investors funding early-stage execution risk.
-- **Funding return** tied to future carbon-token distributions.
-
-Together, the model aims to align project funding needs with investor liquidity expectations.
+This architecture enables earlier funding for developers while preserving optionality and risk management tools for investors.
 
 ---
 
 ## Slide 4 — Use Case & MVP Flow
 
-![6. Process](./docs/pitch/6-Process.svg)
-![7. Example](./docs/pitch/7-Example.svg)
+![6-Process](./ange%20project/portal/screenshots/6-Process.jpg)
+![7-Example](./ange%20project/portal/screenshots/7-Example.jpg)
 
 ### MVP flow screenshots (from `portal/screenshots`)
-![MVP Flow Screenshot 1](./ange%20project/portal/screenshots/step1.svg)
-![MVP Flow Screenshot 2](./ange%20project/portal/screenshots/step2.svg)
-![MVP Flow Screenshot 3](./ange%20project/portal/screenshots/step3.svg)
-![MVP Flow Screenshot 4](./ange%20project/portal/screenshots/step4.svg)
-![MVP Flow Screenshot 5](./ange%20project/portal/screenshots/step5.svg)
+![MVP Flow Step 1](./ange%20project/portal/screenshots/step1.svg)
+![MVP Flow Step 2](./ange%20project/portal/screenshots/step2.svg)
+![MVP Flow Step 3](./ange%20project/portal/screenshots/step3.svg)
+![MVP Flow Step 4](./ange%20project/portal/screenshots/step4.svg)
+![MVP Flow Step 5](./ange%20project/portal/screenshots/step5.svg)
 
 ### Detailed description
-The MVP demonstrates an end-to-end lifecycle:
-1. A carbon project seeks upfront financing.
-2. A bond issuance is unitised into Bond NFTs (e.g., U$100,000 split into 100 NFTs).
-3. Investors fund the project by purchasing Bond NFTs.
-4. The project generates verified carbon credits.
-5. Credits are tokenised and distributed proportionally over time.
-6. Bond NFTs remain tradable on secondary markets before full distribution.
+The MVP demonstrates a practical lifecycle:
+1. A climate project requests upfront financing.
+2. Bond issuance is split into tradable NFT units.
+3. Investors supply capital through primary participation.
+4. The project executes and generates verified carbon output.
+5. Carbon value is tokenized and distributed under predefined allocation rules.
+6. Bond NFTs remain tradable, enabling secondary liquidity before final distribution completion.
 
-The example scenario illustrates a hybrid return path:
-- partial liquidity events via secondary sales,
-- continued exposure to future token distributions via retained NFTs,
-- risk-adjusted upside tied to project execution and market pricing.
+The use case shows a blended return structure where investors can combine interim liquidity events with ongoing exposure to future project-linked distributions.
 
 ---
 
 ## Slide 5 — Why Solana
 
-![8. Solana](./docs/pitch/8-Solana.svg)
+![8-Solana](./ange%20project/portal/screenshots/8-Solana.jpg)
 
 ### Detailed description
-ANGE positions Solana as the operating layer for climate-finance markets because of four infrastructure characteristics:
-- **Speed:** near real-time settlement supports active market operations.
-- **Low fees:** makes smaller transactions and broader participation economical.
-- **Scalability:** supports global, high-volume issuance and trading activity.
-- **Accessibility:** internet-native rails connect cross-border participants.
+ANGE positions Solana as a fit-for-purpose execution layer for climate-finance markets:
+- **High throughput** supports frequent issuance and trading operations.
+- **Low transaction costs** make smaller ticket participation economically viable.
+- **Fast settlement** improves operational responsiveness for global participants.
+- **Open accessibility** helps bridge traditional capital pools and internet-native investors.
 
-Strategically, this supports a bridge from traditional carbon and institutional markets into programmable internet capital markets.
+These properties allow ANGE to scale market activity without compromising affordability or user reach.
 
 ---
 
 ## Vision
 
-![9. Vision](./docs/pitch/9-Vision.svg)
+![9-Vision](./ange%20project/portal/screenshots/9-Vision.jpg)
 
 ### Detailed description
-ANGE’s long-term vision is to build foundational infrastructure for tokenised climate finance by enabling:
-- **Global climate project financing** through digitally native instruments.
-- **Transparent and liquid participation** for institutional and digital investors.
-- **Interoperable carbon-market rails** where real-world climate outcomes map cleanly to on-chain assets.
+ANGE’s long-term vision is to become core infrastructure for tokenized climate finance by enabling:
+- **Global project funding access** through programmable digital instruments.
+- **Transparent and liquid participation** across institutional and retail-adjacent channels.
+- **Interoperable market rails** that connect project output, tokenized value, and investor distribution.
 
-In this vision, climate assets become more financeable, more transparent, and more globally accessible—expanding both climate impact and investable market depth.
+By aligning financing mechanics with transparent on-chain processes, ANGE seeks to expand both climate impact capacity and investable market depth.
