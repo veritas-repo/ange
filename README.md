@@ -17,7 +17,6 @@ Website: www.veritas-tech.org
 ## Slide 1 — Project Introduction
 
 ![1-Title](./ange%20project/portal/screenshots/1-Title.jpg)
-![VVT-Logo](./ange%20project/portal/screenshots/VVT-Logo.jpg)
 
 ### Detailed description
 ANGE (Asset Network for Green Economy) is building a digital climate-finance infrastructure layer that connects real-world climate projects to internet-native capital markets. The model is designed to make project financing more efficient and outcome distribution more transparent by moving issuance, settlement, and value allocation onto programmable rails.
