@@ -44,7 +44,7 @@ Website: https://www.veritas-tech.org
 
 ![VVT-Logo](./ange%20project/portal/screenshots/VVT-Logo.jpg)
 
-Founded in Australia with an Asia-Pacific focus - Veritas Ventures Trust exist to create a sustainable future, as a truly trusted, respected, and independent global emerging tech company. ​Veritas Tech (Veritas Tech Pty. Ltd.), in its capacity as Trustee of the Veritas Ventures Trust, advances the vision and engineering of Emerging Technologies - including Artificial Intelligence, Blockchain/DLT, and the Internet of Things - to build a Sustainable Future.
+Founded in Australia with an Asia-Pacific focus - Veritas Tech exists to create a sustainable future, as a truly trusted, respected, and independent global emerging tech company. ​Veritas Tech (Veritas Tech Pty. Ltd.), in its capacity as Trustee of the Veritas Ventures Trust, advances the vision and engineering of Emerging Technologies - including Artificial Intelligence, Blockchain/DLT, and the Internet of Things - to build a Sustainable Future.
 
 ---
 
