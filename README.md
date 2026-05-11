@@ -10,13 +10,13 @@
 Trustee: Veritas Tech Pty. Ltd.  
 Website: www.veritas-tech.org
 
-![VVT-Logo (from pitch deck)](./ange%20project/portal/screenshots/step1.svg)
+![VVT-Logo](./docs/pitch/VVT-Logo.png)
 
 ---
 
 ## Slide 1 — Project Introduction
 
-![1. Title](./ange%20project/portal/screenshots/step1.svg)
+![1. Title](./docs/pitch/1-Title.png)
 
 ### Detailed description
 ANGE (Asset Network for Green Economy) is building a digital climate-finance infrastructure layer that connects real-world climate projects to internet-native capital markets. The platform is designed to tokenize climate-related assets and financing rights so that funding, settlement, and value distribution can happen on-chain with global access.
@@ -32,8 +32,8 @@ This frames ANGE as a market infrastructure project with both impact and financi
 
 ## Slide 2 — Problem Statement
 
-![2. Problem 1](./ange%20project/portal/screenshots/step2.svg)
-![3. Problem 2](./ange%20project/portal/screenshots/step2.svg)
+![2. Problem 1](./docs/pitch/2-Problem-1.png)
+![3. Problem 2](./docs/pitch/3-Problem-2.png)
 
 ### Detailed description
 The pitch identifies structural inefficiencies in traditional climate finance:
@@ -53,8 +53,8 @@ The second problem slide emphasizes the end-state of these frictions: climate as
 
 ## Slide 3 — Solution: Two Connected Markets
 
-![4. Market](./ange%20project/portal/screenshots/step3.svg)
-![5. Bond](./ange%20project/portal/screenshots/step3.svg)
+![4. Market](./docs/pitch/4-Market.png)
+![5. Bond](./docs/pitch/5-Bond.png)
 
 ### Detailed description
 ANGE proposes an integrated **two-market design**:
@@ -81,8 +81,8 @@ Together, the model aims to align project funding needs with investor liquidity 
 
 ## Slide 4 — Use Case & MVP Flow
 
-![6. Process](./ange%20project/portal/screenshots/step4.svg)
-![7. Example](./ange%20project/portal/screenshots/step4.svg)
+![6. Process](./docs/pitch/6-Process.png)
+![7. Example](./docs/pitch/7-Example.png)
 
 ### MVP flow screenshots (from `portal/screenshots`)
 ![MVP Flow Screenshot 1](./ange%20project/portal/screenshots/step1.svg)
@@ -109,7 +109,7 @@ The example scenario illustrates a hybrid return path:
 
 ## Slide 5 — Why Solana
 
-![8. Solana](./ange%20project/portal/screenshots/step5.svg)
+![8. Solana](./docs/pitch/8-Solana.png)
 
 ### Detailed description
 ANGE positions Solana as the operating layer for climate-finance markets because of four infrastructure characteristics:
@@ -124,7 +124,7 @@ Strategically, this supports a bridge from traditional carbon and institutional 
 
 ## Vision
 
-![9. Vision](./ange%20project/portal/screenshots/step1.svg)
+![9. Vision](./docs/pitch/9-Vision.png)
 
 ### Detailed description
 ANGE’s long-term vision is to build foundational infrastructure for tokenised climate finance by enabling:
