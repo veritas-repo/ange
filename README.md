@@ -4,9 +4,38 @@
   <img src="./ange%20project/portal/screenshots/ANGE-Logo.jpg" alt="ANGE Logo" width="180" />
 </p>
 
-
 Website: https://www.veritas-ange.com
 X: https://x.com/veritas_ange
+
+ANGE is a climate finance infrastructure platform built on Solana that enables the tokenisation, issuance, and trading of climate-linked real-world assets (RWAs). The project focuses on modernising carbon markets by transforming future carbon credit generation into liquid, internet-native financial instruments.
+
+The core innovation of ANGE is the creation of “Bond NFTs” — tokenised climate bonds that represent claims on future carbon credit output from verified climate projects. Through this model, climate project developers can access upfront capital before carbon credits are issued, while investors gain transparent and tradable exposure to climate assets.
+
+ANGE combines:
+- Tokenised climate bond issuance
+- Carbon credit distribution infrastructure
+- Secondary trading markets for liquidity
+- On-chain settlement and transparency
+- Scalable Solana-based financial infrastructure
+
+The platform addresses major inefficiencies in traditional climate finance, including:
+
+- Limited access to early-stage project funding
+- Illiquid and fragmented carbon markets
+- High transaction and settlement costs
+- Lack of transparency in carbon asset ownership and distribution
+
+By leveraging Solana’s high throughput, low transaction costs, and fast settlement capabilities, ANGE aims to build scalable infrastructure for global climate capital markets.
+
+Key Features include: 
+- Bond NFT issuance backed by future carbon generation
+- Tokenised carbon asset distribution
+- Secondary marketplace for climate-linked RWAs
+- Low-cost, high-speed settlement on Solana
+- Transparent on-chain ownership and trading
+- Modular infrastructure for climate finance applications
+
+ANGE aims to create a globally accessible climate finance network that connects capital markets with real-world environmental impact. The long-term goal is to unlock liquidity for climate projects worldwide while enabling broader participation in sustainable investment opportunities through blockchain-native infrastructure.
 
 ## Project Owner
 
