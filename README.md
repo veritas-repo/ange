@@ -4,13 +4,15 @@
   <img src="./ange%20project/portal/screenshots/ANGE-Logo.jpg" alt="ANGE Logo" width="180" />
 </p>
 
-ANGE is building Internet-native climate finance infrastructure on Solana by tokenising climate bonds and carbon market assets into tradable digital securities. The platform enables instant settlement, transparent ownership, fractional investment access, and global liquidity for climate projects. By combining blockchain infrastructure with real-world climate assets, ANGE aims to make green finance more accessible, efficient, and scalable for issuers and investors worldwide.
+
+Website: https://www.veritas-ange.com
+X: https://x.com/veritas_ange
 
 ## Project Owner
 
 **Project Owner: Veritas Ventures Trust (VVT)**  
 Trustee: Veritas Tech Pty. Ltd.  
-Website: www.veritas-tech.org
+Website: https://www.veritas-tech.org
 
 ![VVT-Logo](./ange%20project/portal/screenshots/VVT-Logo.jpg)
 
