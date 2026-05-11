@@ -1,11 +1,10 @@
-# ANGE — Asset Network for Green Economy
+# ANGE Project
 
-<p align="center">
-  <img src="./ange%20project/portal/screenshots/ANGE-Logo.jpg" alt="ANGE Logo" width="180" />
-</p>
-
-Website: https://www.veritas-ange.com
+**Project Name:  Asset Network for Green Economy (ANGE)**  
+Website: https://www.veritas-ange.com  
 X: https://x.com/veritas_ange
+
+![ANGE-Logo](./ange%20project/portal/screenshots/ANGE-Logo.jpg)
 
 ANGE is a climate finance infrastructure platform built on Solana that enables the tokenisation, issuance, and trading of climate-linked real-world assets (RWAs). The project focuses on modernising carbon markets by transforming future carbon credit generation into liquid, internet-native financial instruments.
 
@@ -45,13 +44,14 @@ Website: https://www.veritas-tech.org
 
 ![VVT-Logo](./ange%20project/portal/screenshots/VVT-Logo.jpg)
 
+Founded in Australia with an Asia-Pacific focus - Veritas Ventures Trust exist to create a sustainable future, as a truly trusted, respected, and independent global emerging tech company. ​Veritas Tech (Veritas Tech Pty. Ltd.), in its capacity as Trustee of the Veritas Ventures Trust, advances the vision and engineering of Emerging Technologies - including Artificial Intelligence, Blockchain/DLT, and the Internet of Things - to build a Sustainable Future.
+
 ---
 
 ## Slide 1 — Project Introduction
 
 ![1-Title](./ange%20project/portal/screenshots/1-Title.jpg)
 
-### Detailed description
 ANGE (Asset Network for Green Economy) is building a digital climate-finance infrastructure layer that connects real-world climate projects to internet-native capital markets. The model is designed to make project financing more efficient and outcome distribution more transparent by moving issuance, settlement, and value allocation onto programmable rails.
 
 This introduction highlights three strategic themes:
